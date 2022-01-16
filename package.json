@@ -1,0 +1,37 @@
+{
+  "name": "wjk-app",
+  "version": "0.0.0",
+  "description": "wjk-app",
+  "main": "index.js",
+  "bin": {
+    "wjk-app": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1623311678/wjk-react-cli.git"
+  },
+  "keywords": [
+    "react",
+    "create-app"
+  ],
+  "author": "junkaiwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1623311678/wjk-react-cli/issues"
+  },
+  "homepage": "https://github.com/1623311678/wjk-react-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.2.0",
+    "open": "^7.0.4",
+    "ora": "^5.4.1",
+    "watch": "^1.0.2"
+  }
+}
