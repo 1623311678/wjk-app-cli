@@ -1,6 +1,6 @@
 {
   "name": "wjk-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "wjk-app",
   "main": "index.js",
   "bin": {
