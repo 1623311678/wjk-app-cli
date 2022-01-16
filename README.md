@@ -1,4 +1,4 @@
-# wjk-react-cli
+# wjk-app-cli
 
 #### react/vue template 
  1 install 
