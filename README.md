@@ -9,13 +9,13 @@
  
  2 how to use ?
  
-(1) To create a react project named my-app,you can run this commmand,
-
-  after that terminal will has one selection to select Vue or React project
+(1) To create one project named my-app , you can run this commmand:
 
 ```
 wjk-app create my-app 
 ``` 
+After that terminal will has one selection to select Vue or React project .
+
 Look like to this:
 
 ![image](https://user-images.githubusercontent.com/41052302/153760203-d16566cb-e4e0-40b2-99d5-0783f4b8c19a.png)
@@ -24,13 +24,12 @@ Look like to this:
 
 ```
 wjk-app install codelint
-
 ```
 Look like to this:
 
 ![image](https://user-images.githubusercontent.com/41052302/153760359-110fda51-690a-4282-9189-1a8c65098b93.png)
 
-it can support eslint/tslint, Vue or React 
+it can support eslint / tslint , Vue or React 
 
 What can wjk-app codelint bring ?
 
@@ -38,7 +37,7 @@ What can wjk-app codelint bring ?
 
 2),  commlit lint 
 
-3), format code when you git commit ,it is an incremental check , in another way,it only format code in this commit .
+3), format code use prettier and eslint / tslint  when you run git commit , it is an incremental check , in another way , it only format code in this commit .
 
 Thanks to:
 
