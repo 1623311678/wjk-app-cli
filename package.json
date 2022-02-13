@@ -1,6 +1,6 @@
 {
   "name": "wjk-app",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "wjk-app",
   "main": "index.js",
   "bin": {
@@ -31,9 +31,7 @@
     "figlet": "^1.4.0",
     "open": "^7.0.4",
     "ora": "^5.4.1",
-    "watch": "^1.0.2"
-  },
-  "devDependencies": {
+    "watch": "^1.0.2",
     "inquirer": "^8.2.0",
     "node-cmd": "^5.0.0"
   }
