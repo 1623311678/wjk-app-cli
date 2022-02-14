@@ -1,6 +1,11 @@
 # wjk-app-cli
 
 #### react/vue template 
+
+### node版版>=12.20.0 
+
+reference : https://github.com/okonet/lint-staged/issues/1084
+
  1 install 
  
  ```
