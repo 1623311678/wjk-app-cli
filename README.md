@@ -2,7 +2,7 @@
 
 #### react/vue template 
 
-### node版版>=12.20.0 
+### node版本>=12.20.0 
 
 reference : https://github.com/okonet/lint-staged/issues/1084
 
